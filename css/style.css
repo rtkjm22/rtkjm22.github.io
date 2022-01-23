@@ -1,9 +1,25 @@
 @charset "utf-8";
 
-h1 {
-    color: red;
+.ly_cont {
+  width: 80%;
+  margin: 0 auto;
 }
 
-p {
-    color: cadetblue;
+h1 {
+  padding: 100px 0 50px;
+}
+
+.bl_link {
+  display: block;
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+  color: #41B883;
+  transition: .3s all;
+}
+.bl_link:hover {
+  opacity: .8;
+}
+
+.bl_link_hp {
+  font-size: 30px;
 }
