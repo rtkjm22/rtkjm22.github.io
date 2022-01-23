@@ -1,0 +1,8 @@
+
+prepros.config
+.DS_Store
+src/img/
+*.jqg
+*.jpeg
+*.png
+.vscode
